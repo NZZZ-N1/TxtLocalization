@@ -1,0 +1,9 @@
+F:\Ahead_CodeProjects\TxtLocalization\bin\Debug\TxtLocalization.dll
+F:\Ahead_CodeProjects\TxtLocalization\bin\Debug\TxtLocalization.pdb
+F:\Ahead_CodeProjects\TxtLocalization\bin\Debug\EasySaving.dll
+F:\Ahead_CodeProjects\TxtLocalization\bin\Debug\EasySaving.pdb
+F:\Ahead_CodeProjects\TxtLocalization\obj\Debug\TxtLocalization.csproj.AssemblyReference.cache
+F:\Ahead_CodeProjects\TxtLocalization\obj\Debug\TxtLocalization.csproj.CoreCompileInputs.cache
+F:\Ahead_CodeProjects\TxtLocalization\obj\Debug\TxtLocal.E45D4166.Up2Date
+F:\Ahead_CodeProjects\TxtLocalization\obj\Debug\TxtLocalization.dll
+F:\Ahead_CodeProjects\TxtLocalization\obj\Debug\TxtLocalization.pdb
